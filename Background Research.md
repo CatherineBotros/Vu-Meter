@@ -14,4 +14,9 @@ For a Vu meter to work, it must be capable of doing several tasks:
   1. Convert an analog audio input into digital voltage reading that is linear to the sound intensity. This called a **transducer**.
   2. Voltage sent from the transducer has lots of noise, thus needs to be filtered.
   3. The filtered voltage output is then amplified to a level that can be read by an IC device.
-  4. The amplified voltages are sent to the IC device which is designed to input incoming voltage levels, and then out put a visual representation (using LEDs) of the volume. 
+  4. The amplified voltages are sent to the IC device which is designed to input incoming voltage levels and then out put a visual representation of the volume(using LEDs). 
+  
+  To help picture the system, I made a flowchart showing the series of processes:
+  
+  ![Vu-Meter FLowchart](Vu-Meter Flowchart.png)
+

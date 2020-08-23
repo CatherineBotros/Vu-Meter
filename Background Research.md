@@ -17,4 +17,4 @@ For a Vu meter to work, it must be capable of doing several tasks:
   4. The amplified voltages are sent to the IC device which is designed to input incoming voltage levels and then out put a visual representation of the volume(using LEDs). 
   
   To help picture the system, I made a flowchart showing the series of processes:
- ![Vu-Meter Flowchart](Vu-Meter%20Flowchart.PNG)
+ ![Vu-Meter Flowchart](/Vu-Meter/Images/Vu-Meter Flowchart.PNG)

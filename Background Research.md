@@ -18,5 +18,5 @@ For a Vu meter to work, it must be capable of doing several tasks:
   
   To help picture the system, I made a flowchart showing the series of processes:
   
-  ![Vu-Meter FLowchart](https://drive.google.com/file/d/1nGDGiJMrGkfSXC8v1d7-rszdWAXEhfYB/view?usp=sharing)
+  ![Vu-Meter FLowchart](https://drive.google.com/file/d/1nGDGiJMrGkfSXC8v1d7-rszdWAXEhfYB/view?usp=sharing.png)
 

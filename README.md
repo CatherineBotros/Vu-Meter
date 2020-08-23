@@ -17,4 +17,5 @@ This repo is made to document my journey in understanding the fundamentals of ci
 Inspiration for this project comes from "Electronics Projects - Stefano91e". All due credit goes to him.
 
 Follow along by seeing the following files in order:
-  1. ![Background Research] (https://github.com/CatherineBotros/Vu-Meter/blob/master/Background%20Research.md)
+  1. [Background Research] (https://github.com/CatherineBotros/Vu-Meter/blob/master/Background%20Research.md)
+<a href="https://github.com/CatherineBotros/Vu-Meter/blob/master/Background%20Research.md" >Background Research</a>

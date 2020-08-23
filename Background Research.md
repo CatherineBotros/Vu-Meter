@@ -5,3 +5,6 @@ Before delving into the technical concepts, I want to first have a general under
 Grasping a macro-understanding of the system will allow me to better perceive how each of the smaller functions work to serve a bigger purpose. In addition, relevance is a huge motivator when it comes to making a product. The "why" is just as, if not more important than the "how" since it asks whether or not this project has potential to benefit someone or something bigger than myself.
 
 ## What is it?
+
+A volume (Vu) meter measures the average signal level and visually displays it in dBu (typically one reading every 300 ms). As the name suggest, dBu measures the relative volume of audio input. The louder the audio, the higher the reading display.
+

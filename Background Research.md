@@ -8,3 +8,10 @@ Grasping a macro-understanding of the system will allow me to better perceive ho
 
 A volume (Vu) meter measures the average signal level and visually displays it in dBu (typically one reading every 300 ms). As the name suggest, dBu measures the relative volume of audio input. The louder the audio, the higher the reading display.
 
+## How does it work?
+
+For a Vu meter to work, it must be capable of doing several tasks:
+  1. Convert an analog audio input into digital voltage reading that is linear to the sound intensity. This called a **transducer**.
+  2. Voltage sent from the transducer has lots of noise, thus needs to be filtered.
+  3. The filtered voltage output is then amplified to a level that can be read by an IC device.
+  4. The amplified voltages are sent to the IC device which is designed to input incoming voltage levels, and then out put a visual representation (using LEDs) of the volume. 

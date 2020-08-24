@@ -11,5 +11,6 @@ However, microphones come in many varieties targeted towards a specific purpose,
 My specifications include:
   - Function: Does it convert audio signal into voltage with a high degree of accuracy?
   - Size: Is the size small enough to fit on a 100mm by 200mm circuit board?
-  - Weight: Is it less than 10?
+  - Weight: Does it weighless than 10g?
+  - Cost: Is it within $3?
  
